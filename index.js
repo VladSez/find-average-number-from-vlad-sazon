@@ -10,7 +10,7 @@ export function findAverageNumber(arr) {
   for (let el of arr) {
     if (typeof el !== "number") {
       throw new Error(
-        `Array is must be consisted from numbers. For example: [1,2,3]`
+        `Array must be consisted from numbers. For example: [1,2,3]`
       );
     }
     sum += el;
