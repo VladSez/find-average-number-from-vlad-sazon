@@ -1,0 +1,20 @@
+{
+  "name": "find-average-number-from-vlad-sazon",
+  "version": "1.0.2",
+  "description": "A monster package to find average number from the array of numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "average number",
+    "find average number",
+    "number",
+    "average",
+    "vlados",
+    "sazon",
+    "vlad js"
+  ],
+  "author": "Vlad Sazon",
+  "license": "MIT"
+}
