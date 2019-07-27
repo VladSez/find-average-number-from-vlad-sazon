@@ -1,4 +1,4 @@
-export function findAverage(arr) {
+export function findAverageNumber(arr) {
   if (!Array.isArray(arr)) {
     throw new Error("Input is not not an array");
   }
