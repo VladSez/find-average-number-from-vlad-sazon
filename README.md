@@ -20,4 +20,4 @@ findAverageNumber(array) // Error: Array must be consisted from numbers. For exa
 const arr = [1,2,[3,4]]
 findAverageNumber(array) // Error: Array must be consisted from numbers. For example: [1,2,3]
 ```
-#Example https://codesandbox.io/s/throbbing-dawn-uj7gq
+# Example https://codesandbox.io/s/throbbing-dawn-uj7gq
