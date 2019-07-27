@@ -1,4 +1,7 @@
-# find-average-number-from-vlad-sazon🕵🏽‍♀️
+# Find average number from Vlad Sazon🕵🏽
+
+**Small.** 315 bytes (minified and gzipped). No dependencies.
+
 ```js
 import { findAverageNumber } from 'find-average-number-from-vlad-sazon'
 
