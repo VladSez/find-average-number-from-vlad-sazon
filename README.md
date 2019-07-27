@@ -1,4 +1,4 @@
-# Find average number from Vlad Sazon🕵🏽
+# Find average number from Vlad Sazon🕵🏽 https://codesandbox.io/s/throbbing-dawn-uj7gq
 
 **Small.** 315 bytes (minified and gzipped). No dependencies.
 
