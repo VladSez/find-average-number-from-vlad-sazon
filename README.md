@@ -1,4 +1,4 @@
-# find-average-number-from-vlad-sazon
+# find-average-number-from-vlad-sazon🕵🏽‍♀️
 ```js
 import { findAverageNumber } from 'find-average-number-from-vlad-sazon'
 
