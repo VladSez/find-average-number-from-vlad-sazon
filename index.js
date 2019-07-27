@@ -13,14 +13,6 @@ export function findAverageNumber(arr) {
         `Array is must be consisted from numbers. For example: [1,2,3]`
       );
     }
-    if (!el) {
-      if (el === 0) {
-        continue;
-      }
-      throw new Error(
-        `Array contain's falsy values like 'null', 'undefined', 'NaN' etc.`
-      );
-    }
     sum += el;
   }
   return sum / arr.length;
