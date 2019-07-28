@@ -16,5 +16,9 @@
     "vlad js"
   ],
   "author": "Vlad Sazon",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VladSez/find-average-number-from-vlad-sazon.git"
+  }
 }
