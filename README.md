@@ -2,9 +2,22 @@
 
 **Small.** 315 bytes (minified and gzipped). No dependencies.
 
-Demo: https://codesandbox.io/s/throbbing-dawn-uj7gq
+**Demo**: https://codesandbox.io/s/throbbing-dawn-uj7gq
 
-`For-of loop` vs `for loop` vs `reduce` implementations perfomance comparison: https://codepen.io/Vladik/pen/ZgLEOQ?editors=1010
+**Perfomance test**: `for..of loop` vs `for loop` vs `reduce` library implementations comparison: https://codepen.io/Vladik/pen/ZgLEOQ?editors=1010
+
+## Installation
+
+```sh
+npm install find-average-number-from-vlad-sazon
+```
+or
+
+```sh
+yarn add find-average-number-from-vlad-sazon
+```
+
+## Example
 
 ```js
 import { findAverageNumber } from 'find-average-number-from-vlad-sazon'
