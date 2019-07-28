@@ -2,7 +2,7 @@
 
 **Small.** 315 bytes (minified and gzipped). No dependencies.
 
-Demo: https://codesandbox.io/s/throbbing-dawn-uj7gq <br>
+Demo: https://codesandbox.io/s/throbbing-dawn-uj7gq
 
 `For-of loop` vs `for loop` vs `reduce` implementations perfomance comparison: https://codepen.io/Vladik/pen/ZgLEOQ?editors=1010
 
