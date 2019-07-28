@@ -1,6 +1,6 @@
 {
   "name": "find-average-number-from-vlad-sazon",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A monster package to find average number from the array of numbers",
   "main": "index.js",
   "scripts": {
